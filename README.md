@@ -1,7 +1,13 @@
 ### ⚙️ Skills
 <img src="https://img.shields.io/badge/java-007396.svg?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032.svg?style=flat-square&logo=git&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <br>
+
+### 🌱 I’m currently learning ...
+<img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunju07)](https://github.com/Yunju07/github-readme-stats)
 <br>
