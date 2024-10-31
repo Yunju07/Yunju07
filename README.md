@@ -1,11 +1,13 @@
 
-🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
+<img src="https://img.shields.io/badge/Spring-#6DB33F">
 
-📫 How to reach me: ...
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunju07)](https://github.com/Yunju07/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunju07&layout=compact)
+
 
 <!--
 **Yunju07/Yunju07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
