@@ -1,6 +1,5 @@
 ### ⚙️ Skills
-<img src="https://img.shields.io/badge/java-007396.svg?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032.svg?style=flat-square&logo=git&logoColor=white"> 
-
+<img src="https://img.shields.io/badge/java-007396.svg?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032.svg?style=flat-square&logo=git&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white"/> 
 <br>
 
