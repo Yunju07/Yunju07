@@ -1,4 +1,9 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yunju07)
+
+🌱 I’m currently learning ...
+
+📫 How to reach me: ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunju07)](https://github.com/Yunju07/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunju07&layout=compact)
 
