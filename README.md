@@ -8,9 +8,9 @@
 ### 🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white">  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunju07)](https://github.com/Yunju07/github-readme-stats)  
 
 <!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunju07)](https://github.com/Yunju07/github-readme-stats)  
 
 **Yunju07/Yunju07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
