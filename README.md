@@ -1,4 +1,12 @@
+<div align=center>
+<img src="https://michaelwex.com/wp-content/uploads/2010/05/welcome.jpg" alt = "Welcome!"/>
+</div>
+
+<br>
+
 👋 Hi, I'm a student studying **computer engineering** at Hanyang University.
+
+<br>
 
 
 ### ⚙️ Skills
