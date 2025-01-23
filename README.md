@@ -6,6 +6,8 @@
 
 👋 Hi, I'm a student studying **computer engineering** at Hanyang University.
 
+<br>
+
 
 ### ⚙️ Skills
 <img src="https://img.shields.io/badge/java-007396.svg?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032.svg?style=flat-square&logo=git&logoColor=white"> <br>
