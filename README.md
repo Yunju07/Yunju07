@@ -2,18 +2,28 @@
 <img src="https://michaelwex.com/wp-content/uploads/2010/05/welcome.jpg" alt = "Welcome!"/>
 </div>
 
+
+👋 Hi, I'm a student studying **computer engineering** 
+
 <br>
 
-👋 Hi, I'm a student studying **computer engineering** at Hanyang University.
+🎓 Education & Training
+---
+- **Hanyang University** (2020 – 2024)  
+B.S. in Computer Science
 
-<br>
+- **Kakaotech Bootcamp** (2025 – Present)  
+Full-stack development track
 
 
-### ⚙️ Skills
+⚙️ Skills
+---
 <img src="https://img.shields.io/badge/java-007396.svg?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032.svg?style=flat-square&logo=git&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=Spring Boot&logoColor=white"/>  
   
-### 🌱 I’m currently learning ...
+
+🌱 I’m currently learning ...
+---
 <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white">  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunju07)](https://github.com/Yunju07/github-readme-stats)  
