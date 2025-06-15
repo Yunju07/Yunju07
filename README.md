@@ -1,7 +1,6 @@
 
 👋 Hi, I'm a student studying **computer engineering** 
 
-<br>
 
 🎓 Education & Training
 ---
