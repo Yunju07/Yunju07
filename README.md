@@ -4,8 +4,11 @@
 
 🎓 Education & Training
 ---
-- **Kakaotech Bootcamp** (2025 – Present)  
+- **Kakaotech Bootcamp** (Jan 2025 – Aug 2025)  
 Full-stack development track
+
+- **UMC (University MakeUs Challenge)** (Sep 2023 – Feb 2024)  
+Backend Team Lead at Hanyang University
 
 - **Hanyang University** (2020 – 2024)  
 B.S. in Computer Science
