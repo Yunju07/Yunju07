@@ -28,7 +28,7 @@ B.S. in Computer Science
  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunju07)](https://github.com/Yunju07/github-readme-stats)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunju07) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juile0827)](https://solved.ac/juile0827/)
 
 <!--
 
