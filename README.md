@@ -23,9 +23,8 @@ B.S. in Computer Science
 
 🌱 I’m currently learning ...
 ---
-<img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/> 
- 
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"> 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunju07) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juile0827)](https://solved.ac/juile0827/)
