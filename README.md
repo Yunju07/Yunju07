@@ -1,11 +1,11 @@
 
-👋  Hello, I’m Yunju Lee, a software engineer who grows through small, consistent achievements. I focus on solving problems step by step, quickly immersing myself in challenges, and learning from every experience.
+👋  Hello, I’m **Yunju Lee**, a **software engineer** who grows through **small, consistent achievements.** I focus on solving problems step by step, quickly immersing myself in challenges, and continuously improving my skills.
 
 💡 **Values**
-- I learn from every experience, including failures, and turn them into growth.
-- I dive deep into problems, breaking them into manageable pieces.
-- I build stable and reliable services using insights from system monitoring.
-- I aim to create software that brings meaningful value to users.
+- I **learn from every experience**, including failures, and turn them into growth.
+- I dive deep into problems, **breaking them into manageable pieces.**
+- I **build stable and reliable services** using **insights from system monitoring.**
+- I aim to create software that **brings meaningful value to users.**
 ---
 
 🎓 Education & Training
